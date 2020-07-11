@@ -1,0 +1,43 @@
+.items {
+  height: 400px;
+  width: 300px;
+  display: flex;
+  justify-content: center;
+  border: 2px solid crimson;
+  text-align: center;
+}
+
+.item-div {
+  margin-top: 10px;
+  border: 1px solid rosybrown;
+  width: 100px;
+  text-align: center;
+}
+
+.header {
+  height: 100px;
+  width: 700px;
+  display: flex;
+  justify-content: center;
+  border: 2px solid blueviolet;
+}
+
+.body {
+  height: 200px;
+  width: 700px;
+  display: flex;
+  justify-content: center;
+  border: 2px solid brown;
+}
+
+.footer {
+  height: 100px;
+  width: 700px;
+  display: flex;
+  justify-content: center;
+  border: 2px solid cadetblue;
+}
+
+.main-div {
+  display: flex;
+}
